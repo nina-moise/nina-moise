@@ -1,16 +1,25 @@
-## Hi there 👋
+# Нина
 
-<!--
-**nina-moise/nina-moise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analitic
+Проекты
 
-Here are some ideas to get you started:
+    Учебное портфолио: practicum_projects
+    Мини-проекты по аналитике
+    Выполненные тестовые задания
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Навыки
+
+    Программирование: Python
+    Анализ данных: pandas, NumPy, SciPy, StatsModels
+    Визуализация: Matplotlib, Seaborn, PIL
+    Машинное обучение: scikit-learn, TensorFlow, Keras NLP, PyTorch, CatBoost, LightGBM
+    Обработка больших данных: PySpark, FAISS
+    Прогнозирование: Prophet
+    Базы данных: PostgreSQL
+
+Образование
+
+    Курс "Data Science расширенный", Яндекс Практикум
+   
+
+
