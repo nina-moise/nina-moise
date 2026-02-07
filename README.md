@@ -1,25 +1,24 @@
 # Нина
 
-Data Analitic
+##Data Analyst, Product Analyst
+
 Проекты
 
-    Учебное портфолио: practicum_projects
-    Мини-проекты по аналитике
-    Выполненные тестовые задания
+* Учебное портфолио: practicum_projects
+* Примеры проектов по аналитике
 
 Навыки
 
-    Программирование: Python
-    Анализ данных: pandas, NumPy, SciPy, StatsModels
-    Визуализация: Matplotlib, Seaborn, PIL
-    Машинное обучение: scikit-learn, TensorFlow, Keras NLP, PyTorch, CatBoost, LightGBM
-    Обработка больших данных: PySpark, FAISS
-    Прогнозирование: Prophet
-    Базы данных: PostgreSQL
+* Программирование: Python
+* Анализ данных: pandas, NumPy, SciPy, StatsModels
+* Визуализация: Matplotlib, Seaborn, PIL
+* Обработка больших данных: PySpark, FAISS
+* Базы данных: PostgreSQL, Oracle
 
 Образование
 
-    Курс "Data Science расширенный", Яндекс Практикум
+* Курс "Аналитик данных расширенный со специализацией "Продуктовый аналитик", Яндекс Практикум
+* Самарский государственный аэрокосмический университет, Автоматизированные системы обработки информации и управления
    
 
 
