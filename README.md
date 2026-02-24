@@ -28,7 +28,7 @@
 - Apache Airflow
 
 ### 🤖 Машинное обучение (ML)
-- **Библиотеки:** 
+- **Библиотеки:** Sklearn.
 - **Модели:** Линейная регрессия (LinearRegression), Случайный лес (RandomForestRegressor).
 - **Процессы:** Разделение выборок (Train/Test split), Оценка метрик (R², MAE, RMSE).
 
