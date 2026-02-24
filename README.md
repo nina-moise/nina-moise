@@ -18,16 +18,17 @@
 ### 🧪 Математическая статистика и A/B тесты
 - **Библиотеки:** SciPy, Statsmodels.
 - **Инструменты** Калькулятор Эвана Миллера.
-- **Теория:** Проверка статистических гипотез, дизайн и проведение А/В теста.
+- **Теория:** Проверка статистических гипотез, дизайн и проведение А/В, А/В/С тестов.
 
 ### 💻 Технический стек
-- **Языки и среда:** Python, SQL (PostgreSQL, Oracle, Clickhouse), Jupyter Notebook, SQL Developer, Git/GitHub.
+- **Языки и среда:** Python, SQL (PostgreSQL, Oracle, Clickhouse), Jupyter Notebook, SQL Developer, GitHub.
 
 ### ⛓️ Data Engineering & Big Data
 - PySpark
 - Apache Airflow
 
 ### 🤖 Машинное обучение (ML)
+- **Библиотеки:** 
 - **Модели:** Линейная регрессия (LinearRegression), Случайный лес (RandomForestRegressor).
 - **Процессы:** Разделение выборок (Train/Test split), Оценка метрик (R², MAE, RMSE).
 
