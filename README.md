@@ -4,8 +4,8 @@
 
 Проекты
 ----------------------------------------------------------------------------------------------------------------
-* [Учебное портфолио: practicum_projects](https://github.com/nina-moise/practicum_projects)
-* [Другие проекты: other_projects](https://github.com/nina-moise/other_projects)
+* [practicum_projects](https://github.com/nina-moise/practicum_projects)
+* [other_projects](https://github.com/nina-moise/other_projects)
 
 ### 🛠️ Навыки и инструменты
 
