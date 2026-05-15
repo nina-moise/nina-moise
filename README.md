@@ -7,7 +7,7 @@
 Проекты
 ----------------------------------------------------------------------------------------------------------------
 * [practicum_projects](https://github.com/nina-moise/practicum_projects)
-* [other_projects](https://github.com/nina-moise/other_projects)
+* [work_projects](https://github.com/nina-moise/other_projects)
 
 ### 🛠️ Навыки и инструменты
 
