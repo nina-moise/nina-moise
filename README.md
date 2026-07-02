@@ -23,7 +23,7 @@
 - **Теория:** Проверка статистических гипотез, дизайн и проведение А/В, А/В/С тестов.
 
 ### 💻 Технический стек
-- **Языки и среда:** Python, SQL (PostgreSQL, Oracle, Clickhouse), Jupyter Notebook, SQL Developer, GitHub.
+- **Языки и среда:** Python, SQL (PostgreSQL, Oracle, Clickhouse), DBeaver, Jupyter Notebook, SQL Developer, GitHub.
 
 ### ⛓️ Data Engineering & Big Data
 - PySpark
